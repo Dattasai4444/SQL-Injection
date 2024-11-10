@@ -1,0 +1,375 @@
+2024-10-06 15:50:52,371 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 15:50:52,386 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 15:50:52,389 INFO:  * Restarting with stat
+2024-10-06 15:50:53,144 WARNING:  * Debugger is active!
+2024-10-06 15:50:53,144 INFO:  * Debugger PIN: 835-994-703
+2024-10-06 15:55:38,010 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 15:55:38,010 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 15:55:38,014 INFO:  * Restarting with stat
+2024-10-06 15:55:38,603 WARNING:  * Debugger is active!
+2024-10-06 15:55:38,603 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 15:57:50,927 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 15:57:50,927 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 15:57:50,927 INFO:  * Restarting with stat
+2024-10-06 15:57:51,578 WARNING:  * Debugger is active!
+2024-10-06 15:57:51,586 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 15:59:05,881 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:05] "GET /login HTTP/1.1" 200 -
+2024-10-06 15:59:05,989 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:05] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-06 15:59:06,022 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-06 15:59:44,870 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 15:59:44,879 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:44] "GET /login HTTP/1.1" 200 -
+2024-10-06 15:59:44,900 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 15:59:53,722 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:53] "GET /create_user HTTP/1.1" 200 -
+2024-10-06 15:59:53,749 INFO: 127.0.0.1 - - [06/Oct/2024 15:59:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:00:03,736 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:03] "[35m[1mPOST /create_user HTTP/1.1[0m" 500 -
+2024-10-06 16:00:03,762 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:03] "GET /create_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-06 16:00:03,763 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:03] "GET /create_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-06 16:00:03,801 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:03] "GET /create_user?__debugger__=yes&cmd=resource&f=console.png&s=VuZWjD6uQ6rr5BAikz9z HTTP/1.1" 200 -
+2024-10-06 16:00:03,805 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:03] "GET /create_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-10-06 16:00:12,960 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:12] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:00:12,986 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:00:24,878 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:00:24,899 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:24] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:00:24,921 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:00:27,394 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:27] "GET /create_user HTTP/1.1" 200 -
+2024-10-06 16:00:27,421 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:00:41,940 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:41] "[35m[1mPOST /create_user HTTP/1.1[0m" 500 -
+2024-10-06 16:00:41,965 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:41] "[36mGET /create_user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-06 16:00:41,966 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:41] "[36mGET /create_user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-06 16:00:41,978 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:41] "[36mGET /create_user?__debugger__=yes&cmd=resource&f=console.png&s=VuZWjD6uQ6rr5BAikz9z HTTP/1.1[0m" 304 -
+2024-10-06 16:00:41,998 INFO: 127.0.0.1 - - [06/Oct/2024 16:00:41] "[36mGET /create_user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-06 16:05:10,625 INFO:  * Detected change in 'C:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:10,625 INFO:  * Detected change in 'C:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:10,720 INFO:  * Restarting with stat
+2024-10-06 16:05:10,731 INFO:  * Restarting with stat
+2024-10-06 16:05:11,054 INFO:  * Detected change in 'c:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:11,181 INFO:  * Restarting with stat
+2024-10-06 16:05:11,547 WARNING:  * Debugger is active!
+2024-10-06 16:05:11,548 WARNING:  * Debugger is active!
+2024-10-06 16:05:11,548 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 16:05:11,548 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 16:05:12,035 WARNING:  * Debugger is active!
+2024-10-06 16:05:12,037 INFO:  * Debugger PIN: 835-994-703
+2024-10-06 16:05:48,531 INFO:  * Detected change in 'c:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:48,594 INFO:  * Restarting with stat
+2024-10-06 16:05:48,822 INFO:  * Detected change in 'C:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:48,830 INFO:  * Detected change in 'C:\\Users\\veera\\OneDrive\\Desktop\\secure_login_app\\app.py', reloading
+2024-10-06 16:05:48,918 INFO:  * Restarting with stat
+2024-10-06 16:05:48,934 INFO:  * Restarting with stat
+2024-10-06 16:05:49,222 WARNING:  * Debugger is active!
+2024-10-06 16:05:49,222 INFO:  * Debugger PIN: 835-994-703
+2024-10-06 16:05:49,636 WARNING:  * Debugger is active!
+2024-10-06 16:05:49,653 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 16:05:49,675 WARNING:  * Debugger is active!
+2024-10-06 16:05:49,675 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 16:06:34,248 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-06 16:06:34,248 INFO: [33mPress CTRL+C to quit[0m
+2024-10-06 16:06:34,248 INFO:  * Restarting with stat
+2024-10-06 16:06:34,797 WARNING:  * Debugger is active!
+2024-10-06 16:06:34,797 INFO:  * Debugger PIN: 807-545-580
+2024-10-06 16:07:27,119 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:27] "GET /create_user HTTP/1.1" 200 -
+2024-10-06 16:07:27,283 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:07:36,323 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:36] "[32mPOST /create_user HTTP/1.1[0m" 302 -
+2024-10-06 16:07:36,331 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:36] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:07:36,359 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:07:44,662 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:07:44,680 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:44] "GET /dashboard HTTP/1.1" 200 -
+2024-10-06 16:07:44,716 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:07:49,869 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-06 16:07:49,876 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:49] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:07:49,897 INFO: 127.0.0.1 - - [06/Oct/2024 16:07:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:08:52,727 WARNING: SQL Injection Attempt Detected in Username: Union-based
+2024-10-06 16:08:52,739 INFO: 127.0.0.1 - - [06/Oct/2024 16:08:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:08:52,746 INFO: 127.0.0.1 - - [06/Oct/2024 16:08:52] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:08:52,769 INFO: 127.0.0.1 - - [06/Oct/2024 16:08:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:09:55,073 WARNING: SQL Injection Attempt Detected in Username: Inline Comment
+2024-10-06 16:09:55,074 INFO: 127.0.0.1 - - [06/Oct/2024 16:09:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:09:55,081 INFO: 127.0.0.1 - - [06/Oct/2024 16:09:55] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:09:55,105 INFO: 127.0.0.1 - - [06/Oct/2024 16:09:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:33:11,070 INFO: 127.0.0.1 - - [06/Oct/2024 16:33:11] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:33:11,088 INFO: 127.0.0.1 - - [06/Oct/2024 16:33:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:38:14,900 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:14] "[33mGET /login" HTTP/1.1[0m" 404 -
+2024-10-06 16:38:14,905 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:14] "[33mGET /login' HTTP/1.1[0m" 404 -
+2024-10-06 16:38:14,906 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:14] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:38:20,879 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:38:20,887 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:20] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:38:20,887 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:38:20,887 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:20] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:38:34,768 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:34] "[33mGET /login'%20OR%201=1;%20-- HTTP/1.1[0m" 404 -
+2024-10-06 16:38:57,975 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:57] "[33mGET /login" HTTP/1.1[0m" 404 -
+2024-10-06 16:38:57,980 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:57] "[33mGET /login' HTTP/1.1[0m" 404 -
+2024-10-06 16:38:57,983 INFO: 127.0.0.1 - - [06/Oct/2024 16:38:57] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:39:03,936 INFO: 127.0.0.1 - - [06/Oct/2024 16:39:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:39:03,941 INFO: 127.0.0.1 - - [06/Oct/2024 16:39:03] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:39:03,941 INFO: 127.0.0.1 - - [06/Oct/2024 16:39:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:39:03,941 INFO: 127.0.0.1 - - [06/Oct/2024 16:39:03] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:43:10,499 WARNING: SQL Injection Attempt Detected in Username: Inline Comment
+2024-10-06 16:43:10,499 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:43:10,506 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:10] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:43:10,527 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:43:38,081 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:43:38,099 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:38] "GET /dashboard HTTP/1.1" 200 -
+2024-10-06 16:43:38,130 INFO: 127.0.0.1 - - [06/Oct/2024 16:43:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:44:05,683 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:05] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-06 16:44:05,689 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:05] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:44:05,709 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 16:44:11,639 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-06 16:44:11,640 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 16:44:11,647 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:11] "GET /login HTTP/1.1" 200 -
+2024-10-06 16:44:11,671 INFO: 127.0.0.1 - - [06/Oct/2024 16:44:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-06 22:31:53,505 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-06 22:31:53,507 INFO: 127.0.0.1 - - [06/Oct/2024 22:31:53] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-06 22:31:53,515 INFO: 127.0.0.1 - - [06/Oct/2024 22:31:53] "GET /login HTTP/1.1" 200 -
+2024-10-06 22:31:53,535 INFO: 127.0.0.1 - - [06/Oct/2024 22:31:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:09:03,152 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-09 15:09:03,157 INFO: 127.0.0.1 - - [09/Oct/2024 15:09:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:09:03,171 INFO: 127.0.0.1 - - [09/Oct/2024 15:09:03] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:09:03,214 INFO: 127.0.0.1 - - [09/Oct/2024 15:09:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:12:43,780 INFO: 127.0.0.1 - - [09/Oct/2024 15:12:43] "[33mGET /login'%20OR%201=1;%20-- HTTP/1.1[0m" 404 -
+2024-10-09 15:13:10,664 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:10] "[33mGET /login" HTTP/1.1[0m" 404 -
+2024-10-09 15:13:10,677 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:10] "[33mGET /login' HTTP/1.1[0m" 404 -
+2024-10-09 15:13:10,688 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:10] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:13:16,700 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:13:16,705 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:16] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:13:16,710 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:13:16,718 INFO: 127.0.0.1 - - [09/Oct/2024 15:13:16] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:19:26,753 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-09 15:19:26,757 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:19:26,963 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:26] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:19:27,272 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:19:53,151 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:53] "[33mGET /login" HTTP/1.1[0m" 404 -
+2024-10-09 15:19:53,300 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:53] "[33mGET /login' HTTP/1.1[0m" 404 -
+2024-10-09 15:19:53,728 INFO: 127.0.0.1 - - [09/Oct/2024 15:19:53] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:20:00,896 INFO: 127.0.0.1 - - [09/Oct/2024 15:20:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:20:00,936 INFO: 127.0.0.1 - - [09/Oct/2024 15:20:00] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:20:00,974 INFO: 127.0.0.1 - - [09/Oct/2024 15:20:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:20:01,001 INFO: 127.0.0.1 - - [09/Oct/2024 15:20:01] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:26:31,893 INFO: 127.0.0.1 - - [09/Oct/2024 15:26:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:26:31,920 INFO: 127.0.0.1 - - [09/Oct/2024 15:26:31] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 15:26:31,968 INFO: 127.0.0.1 - - [09/Oct/2024 15:26:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:27:29,072 WARNING: SQL Injection Attempt Detected in Password: Time-based
+2024-10-09 15:27:29,075 INFO: 127.0.0.1 - - [09/Oct/2024 15:27:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:27:29,091 INFO: 127.0.0.1 - - [09/Oct/2024 15:27:29] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:27:29,124 INFO: 127.0.0.1 - - [09/Oct/2024 15:27:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:30:04,707 INFO: 127.0.0.1 - - [09/Oct/2024 15:30:04] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:30:04,737 INFO: 127.0.0.1 - - [09/Oct/2024 15:30:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:31:39,703 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:39] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:31:39,735 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:31:48,566 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:48] "GET /create_user HTTP/1.1" 200 -
+2024-10-09 15:31:48,602 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:31:51,591 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:51] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:31:51,628 INFO: 127.0.0.1 - - [09/Oct/2024 15:31:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:37:06,367 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:37:06,416 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:06] "GET /dashboard HTTP/1.1" 200 -
+2024-10-09 15:37:06,616 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:37:11,381 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-09 15:37:11,456 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:11] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:37:11,847 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:37:43,044 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-09 15:37:43,044 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:37:43,091 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:43] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:37:43,223 INFO: 127.0.0.1 - - [09/Oct/2024 15:37:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-09 15:39:09,881 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-09 15:39:09,881 INFO: 127.0.0.1 - - [09/Oct/2024 15:39:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-09 15:39:09,895 INFO: 127.0.0.1 - - [09/Oct/2024 15:39:09] "GET /login HTTP/1.1" 200 -
+2024-10-09 15:39:09,929 INFO: 127.0.0.1 - - [09/Oct/2024 15:39:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 00:56:56,282 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 00:56:56,282 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 00:57:56,859 INFO: 127.0.0.1 - - [23/Oct/2024 00:57:56] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 00:57:56,978 INFO: 127.0.0.1 - - [23/Oct/2024 00:57:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-23 00:58:49,115 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 00:58:49,117 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 00:58:49,119 INFO:  * Restarting with stat
+2024-10-23 00:58:49,811 WARNING:  * Debugger is active!
+2024-10-23 00:58:49,812 INFO:  * Debugger PIN: 347-854-022
+2024-10-23 00:59:02,489 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 00:59:02,489 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 00:59:02,493 INFO:  * Restarting with stat
+2024-10-23 00:59:03,072 WARNING:  * Debugger is active!
+2024-10-23 00:59:03,072 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 00:59:41,677 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 00:59:41,677 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 00:59:41,680 INFO:  * Restarting with stat
+2024-10-23 00:59:42,418 WARNING:  * Debugger is active!
+2024-10-23 00:59:42,427 INFO:  * Debugger PIN: 347-854-022
+2024-10-23 01:05:10,582 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 01:05:10,582 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 01:05:10,584 INFO:  * Restarting with stat
+2024-10-23 01:05:11,284 WARNING:  * Debugger is active!
+2024-10-23 01:05:11,287 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 01:05:28,152 INFO: 127.0.0.1 - - [23/Oct/2024 01:05:28] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:05:28,484 INFO: 127.0.0.1 - - [23/Oct/2024 01:05:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:05:32,801 INFO: 127.0.0.1 - - [23/Oct/2024 01:05:32] "GET /create_user HTTP/1.1" 200 -
+2024-10-23 01:05:32,944 INFO: 127.0.0.1 - - [23/Oct/2024 01:05:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:06:07,901 INFO: 127.0.0.1 - - [23/Oct/2024 01:06:07] "[32mPOST /create_user HTTP/1.1[0m" 302 -
+2024-10-23 01:06:07,911 INFO: 127.0.0.1 - - [23/Oct/2024 01:06:07] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:06:07,954 INFO: 127.0.0.1 - - [23/Oct/2024 01:06:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:07:23,338 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:23] "GET /create_user HTTP/1.1" 200 -
+2024-10-23 01:07:23,369 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:07:25,542 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:25] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:07:25,574 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:07:50,120 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-23 01:07:50,130 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:50] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:07:50,152 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:07:52,586 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:52] "GET /create_user HTTP/1.1" 200 -
+2024-10-23 01:07:52,620 INFO: 127.0.0.1 - - [23/Oct/2024 01:07:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:08:02,673 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:02] "[32mPOST /create_user HTTP/1.1[0m" 302 -
+2024-10-23 01:08:02,684 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:02] "GET /create_user HTTP/1.1" 200 -
+2024-10-23 01:08:02,710 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:08:28,973 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:28] "[32mPOST /create_user HTTP/1.1[0m" 302 -
+2024-10-23 01:08:28,977 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:28] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:08:29,012 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:08:46,537 WARNING: SQL Injection Attempt Detected in Password: Inline Comment
+2024-10-23 01:08:46,539 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-23 01:08:46,540 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:46] "GET /login HTTP/1.1" 200 -
+2024-10-23 01:08:46,567 INFO: 127.0.0.1 - - [23/Oct/2024 01:08:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-23 01:43:23,839 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 01:43:23,849 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 01:43:23,850 INFO:  * Restarting with stat
+2024-10-23 01:43:24,731 WARNING:  * Debugger is active!
+2024-10-23 01:43:24,740 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 01:43:28,473 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:28] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:30,353 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:30] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:30,582 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:30] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:30,796 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:30] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:30,970 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:30] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:31,174 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:31] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:31,724 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:31] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 01:43:31,901 INFO: 127.0.0.1 - - [23/Oct/2024 01:43:31] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:18:36,751 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:18:36,751 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:18:36,751 INFO:  * Restarting with stat
+2024-10-23 09:18:37,512 WARNING:  * Debugger is active!
+2024-10-23 09:18:37,512 INFO:  * Debugger PIN: 835-994-703
+2024-10-23 09:20:22,198 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:20:22,198 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:20:22,198 INFO:  * Restarting with stat
+2024-10-23 09:20:22,982 WARNING:  * Debugger is active!
+2024-10-23 09:20:22,990 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:22:11,070 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:22:11,070 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:22:11,070 INFO:  * Restarting with stat
+2024-10-23 09:22:11,762 WARNING:  * Debugger is active!
+2024-10-23 09:22:11,762 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:22:33,348 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:33] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:33,474 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-23 09:22:35,477 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:35] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:44,603 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:22:44,619 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:22:44,619 INFO:  * Restarting with stat
+2024-10-23 09:22:45,533 WARNING:  * Debugger is active!
+2024-10-23 09:22:45,536 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:22:48,969 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:48] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:49,602 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:49,770 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:49,904 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:22:50,121 INFO: 127.0.0.1 - - [23/Oct/2024 09:22:50] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:23:35,752 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:23:35,752 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:23:35,752 INFO:  * Restarting with stat
+2024-10-23 09:23:36,722 WARNING:  * Debugger is active!
+2024-10-23 09:23:36,722 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:24:14,859 INFO: 127.0.0.1 - - [23/Oct/2024 09:24:14] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:25:49,190 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:25:49,190 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:25:49,190 INFO:  * Restarting with stat
+2024-10-23 09:25:49,913 WARNING:  * Debugger is active!
+2024-10-23 09:25:49,913 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:26:02,354 INFO: 127.0.0.1 - - [23/Oct/2024 09:26:02] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:26:02,491 INFO: 127.0.0.1 - - [23/Oct/2024 09:26:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-23 09:27:06,686 INFO: 127.0.0.1 - - [23/Oct/2024 09:27:06] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:27:09,043 INFO: 127.0.0.1 - - [23/Oct/2024 09:27:09] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:27:10,788 INFO: 127.0.0.1 - - [23/Oct/2024 09:27:10] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:33:24,867 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:33:24,867 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:33:24,882 INFO:  * Restarting with stat
+2024-10-23 09:33:25,539 WARNING:  * Debugger is active!
+2024-10-23 09:33:25,539 INFO:  * Debugger PIN: 807-545-580
+2024-10-23 09:36:15,279 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-23 09:36:15,279 INFO: [33mPress CTRL+C to quit[0m
+2024-10-23 09:36:15,279 INFO:  * Restarting with stat
+2024-10-23 09:36:15,942 WARNING:  * Debugger is active!
+2024-10-23 09:36:15,958 INFO:  * Debugger PIN: 277-020-042
+2024-10-23 09:36:26,055 INFO: 127.0.0.1 - - [23/Oct/2024 09:36:26] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:36:26,745 INFO: 127.0.0.1 - - [23/Oct/2024 09:36:26] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-23 09:36:29,923 INFO: 127.0.0.1 - - [23/Oct/2024 09:36:29] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-25 20:16:46,576 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-25 20:16:46,577 INFO: [33mPress CTRL+C to quit[0m
+2024-10-25 20:16:46,610 INFO:  * Restarting with stat
+2024-10-25 20:16:47,448 WARNING:  * Debugger is active!
+2024-10-25 20:16:47,464 INFO:  * Debugger PIN: 807-545-580
+2024-10-25 20:30:56,016 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-25 20:30:56,016 INFO: [33mPress CTRL+C to quit[0m
+2024-10-25 20:30:56,019 INFO:  * Restarting with stat
+2024-10-25 20:30:56,743 WARNING:  * Debugger is active!
+2024-10-25 20:30:56,743 INFO:  * Debugger PIN: 807-545-580
+2024-10-25 20:31:11,819 INFO: 127.0.0.1 - - [25/Oct/2024 20:31:11] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-25 20:31:56,195 INFO: 127.0.0.1 - - [25/Oct/2024 20:31:56] "GET /login HTTP/1.1" 200 -
+2024-10-25 20:31:56,519 INFO: 127.0.0.1 - - [25/Oct/2024 20:31:56] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-25 20:32:07,278 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-25 20:32:07,294 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:07] "GET /dashboard HTTP/1.1" 200 -
+2024-10-25 20:32:07,344 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 20:32:10,761 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-25 20:32:10,771 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:10] "GET /login HTTP/1.1" 200 -
+2024-10-25 20:32:10,805 INFO: 127.0.0.1 - - [25/Oct/2024 20:32:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 20:33:36,602 WARNING: SQL Injection Attempt Detected in Username: Time-based
+2024-10-25 20:33:36,602 INFO: 127.0.0.1 - - [25/Oct/2024 20:33:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-25 20:33:36,618 INFO: 127.0.0.1 - - [25/Oct/2024 20:33:36] "GET /login HTTP/1.1" 200 -
+2024-10-25 20:33:36,653 INFO: 127.0.0.1 - - [25/Oct/2024 20:33:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:20:50,681 INFO: 127.0.0.1 - - [25/Oct/2024 23:20:50] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:21:00,629 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:00] "GET /create_user HTTP/1.1" 200 -
+2024-10-25 23:21:00,653 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:21:04,079 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:04] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:21:04,091 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:21:12,033 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:12] "GET /create_user HTTP/1.1" 200 -
+2024-10-25 23:21:12,059 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:21:14,861 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:14] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:21:14,882 INFO: 127.0.0.1 - - [25/Oct/2024 23:21:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:23:10,694 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-25 23:23:10,706 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:10] "GET /dashboard HTTP/1.1" 200 -
+2024-10-25 23:23:10,739 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:23:14,168 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:14] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-25 23:23:14,173 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:14] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:23:14,208 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:23:22,415 WARNING: SQL Injection Attempt Detected in Username: Union-based
+2024-10-25 23:23:22,446 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-25 23:23:22,452 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:22] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:23:22,474 INFO: 127.0.0.1 - - [25/Oct/2024 23:23:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:43:07,243 INFO: 127.0.0.1 - - [25/Oct/2024 23:43:07] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-25 23:43:27,642 INFO: 127.0.0.1 - - [25/Oct/2024 23:43:27] "GET /create_user HTTP/1.1" 200 -
+2024-10-25 23:43:27,673 INFO: 127.0.0.1 - - [25/Oct/2024 23:43:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-25 23:43:29,060 INFO: 127.0.0.1 - - [25/Oct/2024 23:43:29] "GET /login HTTP/1.1" 200 -
+2024-10-25 23:43:29,080 INFO: 127.0.0.1 - - [25/Oct/2024 23:43:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-26 11:11:18,225 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:18] "GET /login HTTP/1.1" 200 -
+2024-10-26 11:11:18,282 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-26 11:11:18,394 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-26 11:11:30,590 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-26 11:11:30,610 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:30] "GET /dashboard HTTP/1.1" 200 -
+2024-10-26 11:11:30,666 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-26 11:11:38,588 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-26 11:11:38,600 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:38] "GET /login HTTP/1.1" 200 -
+2024-10-26 11:11:38,637 INFO: 127.0.0.1 - - [26/Oct/2024 11:11:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-26 11:12:11,060 WARNING: SQL Injection Attempt Detected in Username: Union-based
+2024-10-26 11:12:11,060 INFO: 127.0.0.1 - - [26/Oct/2024 11:12:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-26 11:12:11,071 INFO: 127.0.0.1 - - [26/Oct/2024 11:12:11] "GET /login HTTP/1.1" 200 -
+2024-10-26 11:12:11,112 INFO: 127.0.0.1 - - [26/Oct/2024 11:12:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
